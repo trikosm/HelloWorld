@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 204D-6B16
+
+ Directory of C:\Users\user\Desktop\JavaProject1
+
+05-Jan-20  08:10    <DIR>          .
+05-Jan-20  08:10    <DIR>          ..
+05-Jan-20  07:48               147 Hello
+05-Jan-20  08:10                 0 readMladen.txt
+               2 File(s)            147 bytes
+               2 Dir(s)  70,740,660,224 bytes free
